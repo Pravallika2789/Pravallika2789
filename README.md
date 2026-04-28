@@ -2,7 +2,7 @@
 
 <!--
 **Pravallika2789/Pravallika2789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Pravallika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pravallika2789)](https://github.com/Pravallika2789/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
