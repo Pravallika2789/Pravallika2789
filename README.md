@@ -32,7 +32,6 @@ Currently exploring AI Agents, Automation, and real-world AI projects.
 <p align="center">
 ✨ Open to collaboration, exciting projects, and AI innovation discussions
 </p>
----
 
 ## 💻 Tech Stack
 
