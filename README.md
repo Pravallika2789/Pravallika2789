@@ -1,11 +1,11 @@
 <p align="center"><img src="cards/hero.svg" width="100%" alt="Reddy Pravallika, Computer Science &amp; Information Technology student. I build AI agents and automations, and care as much about how they look as how they run."></p>
 
-<p align="center"><img src="cards/contributions.svg" width="100%" alt="Contribution heatmap for the last year: 549 contributions."></p>
+<p align="center"><img src="cards/contributions.svg" width="100%" alt="Contribution heatmap for the last year: 179 contributions."></p>
 
-<p align="center"><img src="cards/activity.svg" width="100%" alt="Contributions per month over the last year: Dec 55, Jan 30, Feb 49, Mar 60, Apr 23, May 34, Jun 44, Jul 63, Aug 40, Sep 53, Oct 40, Nov 37. Longest streak 15 days, 207 active days, busiest day 19 Jul 2026 with 23 contributions."></p>
+<p align="center"><img src="cards/activity.svg" width="100%" alt="Contributions per month over the last year: Dec 2, Jan 0, Feb 0, Mar 26, Apr 23, May 6, Jun 31, Jul 1, Aug 24, Sep 59, Oct 4, Nov 3. Longest streak 9 days, 38 active days, busiest day 2 Jun 2026 with 16 contributions."></p>
 
 <p align="center">
-<a href="https://github.com/Pravallika2789?tab=repositories"><img src="cards/tile-build.svg" width="32.5%" alt="Build. 25 public repositories. Web apps and system tools in TypeScript, JavaScript and Java."></a>
+<a href="https://github.com/Pravallika2789?tab=repositories"><img src="cards/tile-build.svg" width="32.5%" alt="Build. 26 public repositories. Web apps and system tools in TypeScript, JavaScript and Java."></a>
 <a href="https://github.com/Pravallika2789/Smart-seizure-detection"><img src="cards/tile-create.svg" width="32.5%" alt="Create. Brain scans, brainwaves and hand gestures. Deep learning and computer-vision experiments, from MRI classifiers to live gesture recognition."></a>
 <a href="https://github.com/Pravallika2789?tab=stars"><img src="cards/tile-explore.svg" width="32.5%" alt="Explore. Always learning, mostly by building. Spiking neural networks, AI agents and automation, picked up one small project at a time."></a>
 </p>
