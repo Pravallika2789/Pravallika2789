@@ -1,61 +1,27 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3200&pause=1200&color=6A5ACD&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Pravallika;Welcome+to+my+GitHub+Profile;Full+Stack+Developer;AI+Enthusiast+%26+Learner;Building+AI+Agents+%26+Automation;React+%7C+Java+%7C+Spring+Boot;Always+Learning+New+Things+🚀" />
-</p>
+<p align="center"><img src="cards/hero.svg" width="100%" alt="Reddy Pravallika, Computer Science &amp; Information Technology student. I build AI agents and automations, and care as much about how they look as how they run."></p>
+
+<p align="center"><img src="cards/contributions.svg" width="100%" alt="Contribution heatmap for the last year: 549 contributions."></p>
+
+<p align="center"><img src="cards/activity.svg" width="100%" alt="Contributions per month over the last year: Dec 55, Jan 30, Feb 49, Mar 60, Apr 23, May 34, Jun 44, Jul 63, Aug 40, Sep 53, Oct 40, Nov 37. Longest streak 15 days, 207 active days, busiest day 19 Jul 2026 with 23 contributions."></p>
 
 <p align="center">
-Passionate about Full Stack Development and learning AI.<br>
-Currently exploring AI Agents, Automation, and real-world AI projects.
+<a href="https://github.com/Pravallika2789?tab=repositories"><img src="cards/tile-build.svg" width="32.5%" alt="Build. 25 public repositories. Web apps and system tools in TypeScript, JavaScript and Java."></a>
+<a href="https://github.com/Pravallika2789/Smart-seizure-detection"><img src="cards/tile-create.svg" width="32.5%" alt="Create. Brain scans, brainwaves and hand gestures. Deep learning and computer-vision experiments, from MRI classifiers to live gesture recognition."></a>
+<a href="https://github.com/Pravallika2789?tab=stars"><img src="cards/tile-explore.svg" width="32.5%" alt="Explore. Always learning, mostly by building. Spiking neural networks, AI agents and automation, picked up one small project at a time."></a>
 </p>
 
-<p align="center">
-🚀 Full Stack Developer &nbsp; | &nbsp; 🤖 AI Engineer &nbsp; | &nbsp; 💡 Problem Solver
-</p>
+<p align="center"><img src="cards/building.svg" width="100%" alt="What I’m building: selected projects."></p>
 
-<p align="center">
-✨ Always learning. Building with code. Creating with AI.
-</p>
+<p align="center"><a href="https://github.com/Pravallika2789/Smart-seizure-detection"><img src="cards/project-neuromorphic.svg" width="100%" alt="Neuromorphic Seizure Detection: EEG-based seizure detection with Spiking Neural Networks, plus plain-language interpretations of each prediction through the Gemini API."></a></p>
 
----
-## 🤝 Let's Connect!
+<p align="center"><a href="https://github.com/Pravallika2789/Pivora--Financial-PLanning-and-scenario-Simulation"><img src="cards/project-pivora.svg" width="100%" alt="PIVORA Financial Simulation Platform: Financial planning and scenario simulation. My fork of the PIVORA-Hackathon project."></a></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/reddy-pravallika-812723325">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  
-  <a href="mailto:r.pravallika2789@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-  </a>
-</p>
+<p align="center"><img src="cards/project-skyaid.svg" width="100%" alt="SKY AID Drone-Based Disaster Relief System: A drone-based disaster relief system."></p>
 
-<p align="center">
-✨ Open to collaboration, exciting projects, and AI innovation discussions
-</p>
+<p align="center"><a href="https://github.com/Pravallika2789/MemProfiler-OS"><img src="cards/project-memprofiler.svg" width="100%" alt="MemProfiler-OS: A system monitoring dashboard that visualises per-process memory use, flags abnormal behaviour and detects possible memory leaks in real time."></a></p>
 
-## 💻 Tech Stack
+<p align="center"><a href="https://github.com/Pravallika2789/Real-time-Hand-Gesture-Recognition"><img src="cards/project-gesture.svg" width="100%" alt="Real-Time Hand Gesture Recognition: Classifies gestures live from webcam hand landmarks, using MediaPipe and TensorFlow."></a></p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,mongodb,git,github,postman,vscode,python,nodejs,express" />
-</p>
+<p align="center"><img src="cards/footer.svg" width="100%" alt="Footer"></p>
 
-<p align="center">
-⚡ Java • Spring Boot • React • JavaScript • MySQL • MongoDB • Node.js • Express
-</p>
-
----
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pravallika2789&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pravallika2789&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravallika2789&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="170"/>
-</p>
-
----
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Pravallika2789&color=blueviolet&style=for-the-badge)
+<p align="center"><a href="https://github.com/Pravallika2789">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/reddy-pravallika-812723325">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:r.pravallika2789@gmail.com">Email</a></p>
